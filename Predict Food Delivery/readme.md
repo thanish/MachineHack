@@ -3,9 +3,11 @@ This a machine learning hackathon brought together by Analytics India Magazine a
 
 As the title reads this competition was about building a machine learning model to predict food delivery time of the orders places online. The data is taken from restuarnt spread across few cities across India. 
 
-Link : https://www.machinehack.com/course/predicting-food-delivery-time-hackathon-by-ims-proschool/
+Link: https://www.machinehack.com/course/predicting-food-delivery-time-hackathon-by-ims-proschool/
 
 I bagged the 3rd place in the Hackthon.
+
+![alt text](https://github.com/thanish/MachineHack/blob/master/Predict%20Food%20Delivery/image.png)
 
 ## Features available
 * Restaurant: A unique ID that represents a restaurant.
